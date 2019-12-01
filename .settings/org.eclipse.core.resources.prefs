@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebRoot/admin/Admin_index.jsp=UTF-8
+encoding//WebRoot/admin/TeacherList.jsp=UTF-8
+encoding//WebRoot/admin/add_teacher.jsp=UTF-8
+encoding//WebRoot/admin/admin_welcome.jsp=UTF-8
+encoding//WebRoot/admin/organization_list.jsp=UTF-8
+encoding//WebRoot/student/Student_index.jsp=UTF-8
+encoding//WebRoot/student/inform.jsp=UTF-8
+encoding//src/com/zy/user/dao/MessageDao.java=UTF-8
+encoding/<project>=UTF-8

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="STMS"
+  id="myeclipse.1558438954131"
+  context-root="/STMS"
+  j2ee-spec="6.0"
+  archive="STMS.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
